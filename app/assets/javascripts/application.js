@@ -10,6 +10,22 @@
 // Read Sprockets README (https://github.com/rails/sprockets#sprockets-directives) for details
 // about supported directives.
 //
+//= require plugins/jquery/jquery.min
+//= require plugins/jquery-ui/jquery-ui.min
+//= require plugins/bootstrap/js/bootstrap.min
+//= require plugins/smoothscroll/SmoothScroll.min
+//= require plugins/waypoints/waypoints.min
+//= require plugins/counter-up/jquery.counterup.min
+//= require plugins/datepicker/bootstrap-datepicker.min
+//= require plugins/selectbox/jquery.selectbox-0.1.3.min
+//= require plugins/owl-carousel/owl.carousel.min
+//= require plugins/isotope/isotope.min
+//= require plugins/fancybox/jquery.fancybox.pack
+//= require plugins/isotope/isotope-triger.min
+//= require plugins/map/js/rich-marker
+//= require plugins/map/js/infobox_packed
+//= require single-map
+//= require map
+//= require custom
 //= require rails-ujs
 //= require turbolinks
-//= require_tree .
